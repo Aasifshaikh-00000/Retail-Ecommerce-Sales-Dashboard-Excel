@@ -1,64 +1,84 @@
-# vandana-store-project
-Business Analytics project on Vandana Store’s 2022 online sales data — analyzing customer behavior, sales performance, and providing actionable insights to boost 2023 revenue.
-<br><br>
+# Retail-Ecommerce-Sales-Dashboard-Excel
 
-# Vandana Store Online Sales Annual Report 2022 <br>
-📁 Project Overview<br>
-This project analyzes the 2022 online sales data of Vandana Store to understand customer behavior, identify key growth opportunities, and provide data-driven recommendations to increase sales and revenue in 2023.
+## Vandana Store Online Sales Analysis (2022)
 
-🎯 Objective<br>
-To understand customer purchasing patterns and business performance in 2022 and recommend strategies to:
-Increase revenue in 2023
-Improve customer targeting
-Optimize marketing across online sales channels
+### Project Overview
+This project analyzes the 2022 online sales data of Vandana Store.
+The goal was to understand customer behavior, sales performance, and growth opportunities.
+The analysis focuses on answering real business questions using data.
 
-💡 Key Business Questions<br>
-Who purchased more — men or women?
-What are the different order statuses?
-Which are the top 10 states contributing to sales?
-What is the relationship between age and gender based on number of orders?
-Which sales channel contributes the most?
-What is the highest selling category?
-Which month and quarter performed the best in terms of sales and orders?
+### Objective
+To analyze 2022 sales data and provide insights that can help:
+  Increase revenue in 2023
+  Improve customer targeting
+  Optimize online sales channels
 
-📈 Key Insights<br>
-🧾 Top Performing Period: March recorded the highest sales and orders. Overall, Q1 (Jan–Mar) was the strongest quarter.
+### Business Questions
+  The analysis was driven by the following questions:
+  Who purchased more, men or women?
+  What are the different order statuses and their distribution?
+  Which states contribute the most to total sales?
+  How does age and gender relate to the number of orders?
+  Which sales channels generate the most orders?
+  Which product categories sell the most?
+  Which months and quarters perform best in sales and orders?
 
-🛍️ Top Channels:<br>
-Amazon – 35%
-Flipkart – 21%
-Myntra – 23%
-Together, they account for nearly 80% of total orders.
+### Key Insights
+  Time-Based Performance
+  March had the highest sales and order volume.
+  Q1 (January to March) was the strongest quarter.
+  This shows higher demand at the beginning of the year.
+  Sales Channels
+  Amazon contributed about 35% of total orders.
+  Myntra contributed around 23%.
+  Flipkart contributed around 21%.
+  These three platforms together generated nearly 80% of total orders.
 
-🚚 Order Fulfillment:<br>
-92% of orders delivered successfully
-Only 3% returns and 3% refunds — high customer satisfaction
+### Order Status
+  92% of orders were delivered successfully.
+  Returns and refunds were both around 3%.
+  This indicates good fulfillment performance and customer satisfaction.
 
-👩‍🦱 Customer Demographics:<br>
-Women contributed 64% of total sales, men 36%
-Women in the 30–45 age group were the most active buyers
+### Customer Demographics
+  Women contributed 64% of total sales.
+  Men contributed 36%.
+  Women aged 30–45 placed the highest number of orders.
+  This segment is the most valuable customer group.
 
-🌍 Top States by Revenue:<br>
-Maharashtra (Rank 1)
-Telangana
-Karnataka
-Uttar Pradesh
+### Geographic Performance
+  Top contributing states by revenue:
+  Maharashtra
+  Telangana
+  Karnataka
+  Uttar Pradesh
+Sales are concentrated in a few key states.
 
-💬 Recommendations<br>
-Target women aged 30–45 in Maharashtra, Karnataka, and UP.
-Run targeted digital ads and discounts on Amazon, Flipkart, and Myntra during Q1 2023.
-Focus on product categories popular among female customers to maximize ROI.
+### Recommendations
+Based on the analysis:
+Target women aged 30–45 for marketing campaigns.
+Focus more on high-performing states such as Maharashtra, Karnataka, and Uttar Pradesh.
+Increase promotions on Amazon, Myntra, and Flipkart.
+Plan major campaigns and inventory around Q1 due to higher demand.
 
-🛠️ Tools Used<br>
-Microsoft Excel – for data cleaning, analysis, pivot tables, and visualizations
+### Tools Used
+Microsoft Excel
+Data cleaning
+Pivot tables
+KPI calculations
+Charts and dashboard creation
 
-📊 Deliverables<br>
-Excel Dashboard (Annual Sales Overview 2022)
+### Deliverables
+Excel dashboard showing 2022 sales performance
+KPI summary
 
-KPI summary<br>
-Visuals: Monthly performance, gender-age insights, sales channel distribution, state-level revenue chart
+### Visual analysis of:
+Monthly and quarterly trends
+Sales by gender and age
+Channel-wise contribution
+State-wise revenue
 
-🧠 Learning Takeaways<br>
-Built an end-to-end business analysis project from real-world dataset
-Improved Excel analytics, visualization, and storytelling skills
-Developed data-driven decision-making mindset for business growth
+### Key Learnings
+Learned how to convert business questions into data analysis tasks.
+Improved understanding of customer segmentation and sales trends.
+Practiced presenting insights in a clear and structured way.
+Gained experience in end-to-end business analysis using real data.
